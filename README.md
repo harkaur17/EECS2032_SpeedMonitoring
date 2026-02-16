@@ -3,7 +3,6 @@
 ## Overview
 This project implements a Speed Monitoring System using the KL43Z microcontroller.  
 The system measures the speed of vehicles passing through a sensor setup, compares it with a configurable speed limit, and calculates fines based on the measured speed. LEDs indicate whether the vehicle is within the limit or fined.
-![Board Setup](docs/Photos/complete_setup.JPG)
 
 This project was completed as part of EECS 2032 (Embedded Systems) at York University.
 
