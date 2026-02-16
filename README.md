@@ -33,8 +33,7 @@ Lab8_Final/
 │ │ └─ ... (rest of photos)
 │ └─ videos/
 │ └─ Lab8_Video1.mp4
-├─ README.md
-└─ LICENSE
+└─ README.md
 ```
 
 ---
